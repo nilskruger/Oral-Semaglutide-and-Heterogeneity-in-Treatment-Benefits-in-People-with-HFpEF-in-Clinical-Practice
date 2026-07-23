@@ -10,7 +10,7 @@ This repository contains illustrative code related to the study comparing **oral
 
 ## 🧪 About the Analysis
 
-The primary analyses were conducted on the **Aetion Evidence Platform**, a validated system for generating regulatory-grade real-world evidence and trial emulations. This platform has been rigorously benchmarked against FDA Sentinel workflows and validated in the RCT-DUPLICATE initiative.1–3
+The primary analyses were conducted on the **Aetion Evidence Platform**, a validated system for generating regulatory-grade real-world evidence and trial emulations. This platform has been rigorously benchmarked against FDA Sentinel workflows and validated in the RCT-DUPLICATE initiative.
 
 The code provided here is **not sufficient to replicate study results**, as it:
 - Does **not include source data** (due to privacy restrictions)
